@@ -17,7 +17,7 @@
 # https://registry.terraform.io/providers/hashicorp/google/latest/docs/guides/provider_reference
 provider "google" {
   region  = "us-central1"
-  project = "nam-sdbx"
+  project = "ENTER_PROJECT_ID_HERE"
 }
 
 # https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_network
