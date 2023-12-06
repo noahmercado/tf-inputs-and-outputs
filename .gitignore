@@ -1,0 +1,9 @@
+.env
+.terraform
+tfplan
+tfplan.json
+outputs.json
+.terragrunt-cache
+key.json
+.vscode
+.terraform.lock.hcl
