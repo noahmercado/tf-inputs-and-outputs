@@ -19,5 +19,5 @@ output "vpc_id" {
 
 output "next_steps" {
     description = "List of next steps to follow"
-    value = "Please reach out to noahmercado@google.com to request that your VPC be peered with the hub!"
+    value = "Please reach out to noahmercado@google.com to request that your new ${var.environment} VPC be peered with the hub!"
 }
